@@ -18,7 +18,6 @@ This is a fully responsive Amazon Clone built using HTML, CSS. It replicates the
 ## 🚀 Features
 ✔️ Modern and responsive UI 🖥️📱  
 ✔️ Dynamic product listings 🛒  
-✔️ Deployed using GitHub Pages 🌍  
 
 ## 📂 Project Setup
 1. Clone the repository:
