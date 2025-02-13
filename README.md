@@ -11,7 +11,6 @@ This is a fully responsive Amazon Clone built using HTML, CSS. It replicates the
 ## 🛠️ Technologies Used
 - ⚡ **HTML** - Structure of the website
 - 🎨 **CSS** - Styling and layout
-- 🚀 **GitHub Pages** - Deployment
 
 ## 📷 Screenshots
 ![Amazon Clone Screenshot](https://github.com/dishagiri23/Amazon-Clone/blob/632b2f72fb8ddadb357c0d65502f18c91a7246c6/clone.png)
