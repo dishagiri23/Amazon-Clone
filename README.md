@@ -2,9 +2,6 @@
 
 ![Amazon Clone](https://img.shields.io/badge/Amazon%20Clone-Ecommerce-blue) ![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-green) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) 
 
-## 🌐 Live Demo
-🔗 [Amazon Clone - Live on GitHub Pages](https://dishagiri23.github.io/Amazon-Clone/)
-
 ## 📌 Overview
 This is a fully responsive Amazon Clone built using HTML, CSS. It replicates the front-end design of Amazon, including:
 - 🏠 Home Page
