@@ -1,6 +1,6 @@
 # 🛒 Amazon Clone
 
-![Amazon Clone](https://img.shields.io/badge/Amazon%20Clone-Ecommerce-blue)![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) 
+![Amazon Clone](https://img.shields.io/badge/Amazon%20Clone-Ecommerce-blue) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) 
 
 ## 📌 Overview
 This is a fully responsive Amazon Clone built using HTML, CSS. It replicates the front-end design of Amazon, including:
